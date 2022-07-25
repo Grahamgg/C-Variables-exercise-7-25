@@ -1,0 +1,11 @@
+C:\Users\graha\Desktop\Variables Exercise 7-25\obj\Debug\Variables Exercise 7-25.csproj.AssemblyReference.cache
+C:\Users\graha\Desktop\Variables Exercise 7-25\obj\Debug\Variables Exercise 7-25.csproj.SuggestedBindingRedirects.cache
+C:\Users\graha\Desktop\Variables Exercise 7-25\obj\Debug\Variables Exercise 7-25.csproj.CoreCompileInputs.cache
+C:\Users\graha\Desktop\repos\Variables Exercise 7-25\obj\Debug\Variables Exercise 7-25.csproj.AssemblyReference.cache
+C:\Users\graha\Desktop\repos\Variables Exercise 7-25\obj\Debug\Variables Exercise 7-25.csproj.SuggestedBindingRedirects.cache
+C:\Users\graha\Desktop\repos\Variables Exercise 7-25\obj\Debug\Variables Exercise 7-25.csproj.CoreCompileInputs.cache
+C:\Users\graha\Desktop\repos\Variables Exercise 7-25\bin\Debug\Variables Exercise 7-25.exe.config
+C:\Users\graha\Desktop\repos\Variables Exercise 7-25\bin\Debug\Variables Exercise 7-25.exe
+C:\Users\graha\Desktop\repos\Variables Exercise 7-25\bin\Debug\Variables Exercise 7-25.pdb
+C:\Users\graha\Desktop\repos\Variables Exercise 7-25\obj\Debug\Variables Exercise 7-25.exe
+C:\Users\graha\Desktop\repos\Variables Exercise 7-25\obj\Debug\Variables Exercise 7-25.pdb
